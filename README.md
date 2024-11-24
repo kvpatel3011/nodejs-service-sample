@@ -1,4 +1,4 @@
-# Sample Node.js Application for DevOps Assessment
+# Sample Node.js Application
 
 ## Overview
 
